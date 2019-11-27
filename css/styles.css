@@ -1,0 +1,27 @@
+.body {
+  position: relative;
+  color: wheat;
+  font-size: large;
+  background-color: cadetblue;
+}
+img {
+  position: relative;
+  ;
+  
+}
+nav {
+  position: absolute;
+  display: contents;
+  align-content: center;
+  border: black  ;
+  border: thin;
+}
+.hello {
+  text-align: center;
+  ;
+}
+h1 {
+  color: darkred;
+  font: large;
+  
+}
